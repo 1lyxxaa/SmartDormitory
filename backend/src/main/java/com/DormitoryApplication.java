@@ -1,13 +1,13 @@
-package main.java.com;
+package com;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CampusApplication {
+public class DormitoryApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CampusApplication.class, args);
+        SpringApplication.run(DormitoryApplication.class, args);
     }
-
 }
+
